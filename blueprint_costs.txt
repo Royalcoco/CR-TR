@@ -1,0 +1,6 @@
+Résumé du Plan de Transition et des Coûts Réels pour le Réseau Scolaire Parent/Enfant :
+
+1. L'approche traditionnelle par carte bancaire nécessite un abonnement mensuel de 500 à 2000 euros payé à un partenaire bancaire pour la conformité et l'utilisation de l'API. Chaque carte prépayée physique coûte environ 3 à 5 euros.
+2. L'approche Web3 par stablecoins sur des réseaux de seconde couche (comme Base ou Polygon) élimine l'abonnement mensuel bancaire. Les frais de transaction sont inférieurs à un centime par opération. Les coûts principaux se concentrent sur l'audit de sécurité des contrats intelligents, estimé entre 5000 et 20000 euros au lancement.
+3. Pour la sécurité et la légitimité financière, l'identité des parents (KYC) doit être validée, coûtant environ 1,50 euro par utilisateur.
+4. L'utilisation de portefeuilles de contrats intelligents (ERC-4337) permet au parent de gérer la récupération, de définir des limites de dépenses et de payer automatiquement les frais de réseau pour son enfant.
